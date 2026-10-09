@@ -1,11 +1,12 @@
 # India-Prods
 India themed prods:
 
-These assets were created for the India mod by a team consisting of Panther, Frydhmyr, Dinodude, and myself (I’ve forgotten the names of the other modders—apologies—but they are all listed in the file itself; this is a backup copy).
+These assets were created for the India mod by a team consisting of Panther, Frydhmyr, Dinodude, and myself (I’ve forgotten the names of the other modders—apologies—) this is a backup copy.
 
-If you need any specific asset, feel free to ask about having it shared.
+If you need any specific good, feel free to ask about making it shared.
 
-I am currently unaware of the status of the India mod or whether it is still in development; however, if anyone is creating an India mod and needs these assets, I can share them.
+I am currently unaware of the status of the India mod or whether it is still in development; however, if anyone is creating an India mod and needs these prods, I can share them.
+Just prods no fake prod buildings
 
 Prods:
 

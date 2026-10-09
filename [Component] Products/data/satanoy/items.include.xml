@@ -1,0 +1,1529 @@
+<ModOps>
+    <!-- START Products-->
+    <!-- START ADD GOOD Sheesham Logs -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100135</GUID>
+                    <Name>Sheesham Logs</Name>
+                    <IconFilename>data/ui/icons/icon_sheesham_log.png</IconFilename>
+                    <InfoDescription>1900100143</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>3</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Crafting</Attribute>
+                            <Amount>10</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Sheesham Timber -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100144</GUID>
+                    <Name>Sheesham Timber</Name>
+                    <IconFilename>data/ui/icons/icon_sheesham_planks.png</IconFilename>
+                    <InfoDescription>1900100145</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11707</ProductCategory>
+                    <BasePrice>4</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Crafting</Attribute>
+                            <Amount>15</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Roti -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100146</GUID>
+                    <Name>Roti</Name>
+                    <IconFilename>data/ui/icons/icon_roti.png</IconFilename>
+                    <InfoDescription>1900100147</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>100</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>10</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Faith</Attribute>
+                            <Amount>10</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp> 
+    <!-- START ADD GOOD Paneer-->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100150</GUID>
+                    <Name>Paneer</Name>
+                    <IconFilename>data/ui/icons/Paneer_c.png</IconFilename>
+                    <InfoDescription>1900100151</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>103</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>20</BaseMorale>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Lamb meat -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100152</GUID>
+                    <Name>Lamb meat</Name>
+                    <IconFilename>data/ui/icons/Lamb_meat.png</IconFilename>
+                    <InfoDescription>1900100153</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>100</BasePrice>
+                    <CivLevel>3</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Melee</Attribute>
+                            <Amount>10</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Okra pods -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100154</GUID>
+                    <Name>Okra pods</Name>
+                    <IconFilename>data/ui/icons/Okra.png</IconFilename>
+                    <InfoDescription>1900100155</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>4</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>9</BaseMorale>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Sitar -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100156</GUID>
+                    <Name>Sitar</Name>
+                    <IconFilename>data/ui/icons/icon_sitar.png</IconFilename>
+                    <InfoDescription>1900100157</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>2000</BasePrice>
+                    <CivLevel>5</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>9</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Diplomacy</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Teak Logs -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100268</GUID>
+                    <Name>Teak Logs</Name>
+                    <IconFilename>data/ui/icons/icon_teak_wood_log.png</IconFilename>
+                    <InfoDescription>1900100269</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>3</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Crafting</Attribute>
+                            <Amount>10</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Teak wood -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100158</GUID>
+                    <Name>Teak wood</Name>
+                    <IconFilename>data/ui/icons/icon_teak_wood_planks3.png</IconFilename>
+                    <InfoDescription>1900100159</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>30</BasePrice>
+                    <CivLevel>5</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Crafting</Attribute>
+                            <Amount>10</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Kalebash pumpkins -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100160</GUID>
+                    <Name>Kalebash pumpkins</Name>
+                    <IconFilename>data/ui/icons/Kalebash_p.png</IconFilename>
+                    <InfoDescription>1900100161</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>10</BasePrice>
+                    <CivLevel>5</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Crafting</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Masala Chai -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100164</GUID>
+                    <Name>Masala Chai</Name>
+                    <IconFilename>data/ui/icons/Masala_C.png</IconFilename>
+                    <InfoDescription>1900100165</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>110</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>5</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>11</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp> 
+    <!-- START ADD GOOD Oriental Perfume -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100172</GUID>
+                    <Name>Oriental Perfume</Name>
+                    <IconFilename>data/ui/icons/icon_oriental_perfume.png</IconFilename>
+                    <InfoDescription>1900100173</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>55350</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>8</BaseMorale>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Vanilla -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100174</GUID>
+                    <Name>Vanilla</Name>
+                    <IconFilename>data/ui/icons/icon_vanilla.png</IconFilename>
+                    <InfoDescription>1900100175</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>10</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>5</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>8</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Musk -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100176</GUID>
+                    <Name>Musk</Name>
+                    <IconFilename>data/ui/icons/icon_musk.png</IconFilename>
+                    <InfoDescription>1900100177</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>10</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion>
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType>
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>5</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>8</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Ambra -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100178</GUID>
+                    <Name>Ambra</Name>
+                    <IconFilename>data/ui/icons/icon_ambra.png</IconFilename>
+                    <InfoDescription>1900100179</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>10</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Arctic</AssociatedRegion>
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Arctic</RegionType>
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>2</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>3</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Agarwood -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100180</GUID>
+                    <Name>Agarwood</Name>
+                    <IconFilename>data/ui/icons/agar_wood.png</IconFilename>
+                    <InfoDescription>1900100181</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>40</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Crafting</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Agarwood chips -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100182</GUID>
+                    <Name>Agarwood chips</Name>
+                    <IconFilename>data/ui/icons/agar_chips.png</IconFilename>
+                    <InfoDescription>1900100183</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>45</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Crafting</Attribute>
+                            <Amount>1</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Laddoo -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100240</GUID>
+                    <Name>Laddoo</Name>
+                    <IconFilename>data/ui/icons/Laddoo.png</IconFilename>
+                    <InfoDescription>1900100241</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>39</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>10</BaseMorale>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Ghee -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100242</GUID>
+                    <Name>Ghee</Name>
+                    <IconFilename>data/ui/icons/icon_ghee.png</IconFilename>
+                    <InfoDescription>1900100243</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>10</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>5</BaseMorale>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Cashew -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100244</GUID>
+                    <Name>Cashew</Name>
+                    <IconFilename>data/ui/icons/Cashew.png</IconFilename>
+                    <InfoDescription>1900100245</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>5</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>3</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Arrak -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100246</GUID>
+                    <Name>Arrak</Name>
+                    <IconFilename>data/ui/icons/icon_arrak.png</IconFilename>
+                    <InfoDescription>1900100247</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>30</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>13</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>25</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Tiger fur -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100250</GUID>
+                    <Name>Tiger fur</Name>
+                    <IconFilename>data/ui/icons/tiger_furr.png</IconFilename>
+                    <InfoDescription>1900100251</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>500</BasePrice>
+                    <CivLevel>3</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>1</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Hunting</Attribute>
+                            <Amount>25</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Sarees -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100252</GUID>
+                    <Name>Sarees</Name>
+                    <IconFilename>data/ui/icons/saree.png</IconFilename>
+                    <InfoDescription>1900100253</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>300</BasePrice>
+                    <CivLevel>3</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>1</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Hunting</Attribute>
+                            <Amount>25</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Gin -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100258</GUID>
+                    <Name>Gin and Tonic</Name>
+                    <IconFilename>data/ui/icons/icon_gin_tonic.png</IconFilename>
+                    <InfoDescription>1900100259</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>30</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion>
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> 
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>13</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>25</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Ebony wood -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100266</GUID>
+                    <Name>Ebony wood</Name>
+                    <IconFilename>data/ui/icons/icon_ebony_log.png</IconFilename>
+                    <InfoDescription>1900100267</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>40</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Crafting</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Lotus flowers -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100270</GUID>
+                    <Name>Lotus flowers</Name>
+                    <IconFilename>data/ui/icons/lotus.png</IconFilename>
+                    <InfoDescription>1900100271</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Lotus flowers</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>10</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Peacock feathers -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100272</GUID>
+                    <Name>Peacock feathers</Name>
+                    <IconFilename>data/ui/icons/P_Feathrs.png</IconFilename>
+                    <InfoDescription>1900100273</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>70</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>10</BaseMorale>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Garlic -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100274</GUID>
+                    <Name>Garlic</Name>
+                    <IconFilename>data/ui/icons/garlic.png</IconFilename>
+                    <InfoDescription>1900100275</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>10</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>3</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>30</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Pankha-->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100289</GUID>
+                    <Name>Pankha</Name>
+                    <IconFilename>data/ui/icons/Pankha.png</IconFilename>
+                    <InfoDescription>1900100290</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>500</BasePrice>
+                    <CivLevel>3</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>1</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Diplomacy</Attribute>
+                            <Amount>15</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Masala Paratha-->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100293</GUID>
+                    <Name>Masala Paratha</Name>
+                    <IconFilename>data/ui/icons/Masala_Paratha.png</IconFilename>
+                    <InfoDescription>1900100294</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>150</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>10</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Faith</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Biryani-->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100295</GUID>
+                    <Name>Biryani</Name>
+                    <IconFilename>data/ui/icons/Biryani.png</IconFilename>
+                    <InfoDescription>1900100296</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>250</BasePrice>
+                    <CivLevel>3</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>10</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Faith</Attribute>
+                            <Amount>4</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Idlis-->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100297</GUID>
+                    <Name>Idlis</Name>
+                    <IconFilename>data/ui/icons/Idlis.png</IconFilename>
+                    <InfoDescription>1900100298</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>250</BasePrice>
+                    <CivLevel>3</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>10</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Faith</Attribute>
+                            <Amount>4</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Kallu -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100299</GUID>
+                    <Name>Kallu</Name>
+                    <IconFilename>data/ui/icons/icon_kallu.png</IconFilename>
+                    <InfoDescription>1900100300</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>30</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>13</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>25</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Chappal -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100303</GUID>
+                    <Name>Chappal</Name>
+                    <IconFilename>data/ui/icons/Chappal.png</IconFilename>
+                    <InfoDescription>1900100304</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>100</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>9</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Diplomacy</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Tarazu -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100305</GUID>
+                    <Name>Tarazu</Name>
+                    <IconFilename>data/ui/icons/Tarazu.png</IconFilename>
+                    <InfoDescription>1900100306</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>100</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>9</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Diplomacy</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Charpai -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100307</GUID>
+                    <Name>Charpai</Name>
+                    <IconFilename>data/ui/icons/Charpai.png</IconFilename>
+                    <InfoDescription>1900100308</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>550</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>9</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Diplomacy</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Thali -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100301</GUID>
+                    <Name>Thali</Name>
+                    <IconFilename>data/ui/icons/Thali.png</IconFilename>
+                    <InfoDescription>1900100302</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>550</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>9</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Diplomacy</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+     <!-- START ADD GOOD Acorn -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100310</GUID>
+                    <Name>Acorn</Name>
+                    <IconFilename>data/ui/icons/acorn.png</IconFilename>
+                    <InfoDescription>1900100311</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11702</ProductCategory>
+                    <BasePrice>5</BasePrice>
+                    <CivLevel>1</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion>
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType>
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>3</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Medicine</Attribute>
+                            <Amount>30</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+     <!-- START ADD GOOD Pongal -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100316</GUID>
+                    <Name>Pongal</Name>
+                    <IconFilename>data/ui/icons/icon_pongal.png</IconFilename>
+                    <InfoDescription>1900100317</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>50</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>9</BaseMorale>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Paai-->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100318</GUID>
+                    <Name>Paai</Name>
+                    <IconFilename>data/ui/icons/icon_paai.png</IconFilename>
+                    <InfoDescription>1900100319</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>150</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType> <!-- change this-->
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>10</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Faith</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- START ADD GOOD India Company Estate -->
+    <ModOp Type="addNextSibling" GUID='133097'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100260</GUID>
+                    <Name>India Company Estate</Name>
+                    <IconFilename>
+                        data/ui/2kimages/main/3dicons/achievement/icon_achievement_world_bronce.png</IconFilename>
+                    <InfoDescription>1900100261</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>India Company Estate</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Product>
+                    <ProductColor>-11415604</ProductColor>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11709</ProductCategory>
+                    <IsAbstract>1</IsAbstract>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                </Product>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Mehfil -->
+    <ModOp Type="addNextSibling" GUID='133097'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100262</GUID>
+                    <Name>Mehfil</Name>
+                    <IconFilename>
+                        data/ui/2kimages/main/3dicons/achievement/icon_achievement_world_bronce.png</IconFilename>
+                    <InfoDescription>1900100263</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Mehfil</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Product>
+                    <ProductColor>-11415604</ProductColor>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11709</ProductCategory>
+                    <IsAbstract>1</IsAbstract>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                </Product>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Unnamed Spiritual building-->
+    <ModOp Type="addNextSibling" GUID='133097'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100264</GUID>
+                    <Name>Sthanam</Name>
+                    <IconFilename>
+                        data/ui/2kimages/main/3dicons/achievement/icon_achievement_world_bronce.png</IconFilename>
+                    <InfoDescription>1900100265</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Sthanam</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Product>
+                    <ProductColor>-11415604</ProductColor>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11709</ProductCategory>
+                    <IsAbstract>1</IsAbstract>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                </Product>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Public Bath (Snan Griha)-->
+    <ModOp Type="addNextSibling" GUID='133097'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100287</GUID>
+                    <Name>Snan Griha</Name>
+                    <IconFilename>
+                        data/ui/2kimages/main/3dicons/achievement/icon_achievement_world_bronce.png</IconFilename>
+                    <InfoDescription>1900100288</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Snan Griha</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Product>
+                    <ProductColor>-11415604</ProductColor>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11709</ProductCategory>
+                    <IsAbstract>1</IsAbstract>
+                    <AssociatedRegion>Moderate</AssociatedRegion><!-- change this-->
+                </Product>
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

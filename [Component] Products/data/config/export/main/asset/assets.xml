@@ -1,0 +1,6 @@
+<ModOps>
+
+  <Include File="../../../../satanoy/items.include.xml" />
+  <Include File="../../../../satanoy/pools.include.xml" />
+
+</ModOps>

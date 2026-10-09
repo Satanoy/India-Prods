@@ -1,0 +1,412 @@
+<ModOps>
+   	<ModOp Type="add" Path="/TextExport/Texts">
+		<!-- INICIO Troncos de Sheesham -->
+    <Text>
+      <GUID>1900100135</GUID>
+      <Text>Troncos de Sheesham</Text>
+    </Text>
+    <Text>
+      <GUID>1900100143</GUID>
+      <Text>Troncos de sheesham, una madera dura valorada por su durabilidad y veta decorativa.</Text>
+    </Text>
+    <!-- INICIO Madera de Sheesham -->
+    <Text>
+      <GUID>1900100144</GUID>
+      <Text>Madera de Sheesham</Text>
+    </Text>
+    <Text>
+      <GUID>1900100145</GUID>
+      <Text>Madera de sheesham procesada, utilizada en construcción y manufactura por su dureza y apariencia.</Text>
+    </Text>
+    <!-- INICIO Roti -->
+    <Text>
+      <GUID>1900100146</GUID>
+      <Text>Roti</Text>
+    </Text>
+    <Text>
+      <GUID>1900100147</GUID>
+      <Text>Pan plano tradicional hecho de harina y cocido en una plancha caliente.</Text>
+    </Text>
+    <!-- INICIO Roti -->
+    <Text>
+      <GUID>1900100146</GUID>
+      <Text>Roti</Text>
+    </Text>
+    <Text>
+      <GUID>1900100147</GUID>
+      <Text>Pan plano tradicional hecho de harina y cocido en una plancha caliente.</Text>
+    </Text>
+
+    <!-- INICIO Paneer -->
+    <Text>
+      <GUID>1900100150</GUID>
+      <Text>Paneer</Text>
+    </Text>
+    <Text>
+      <GUID>1900100151</GUID>
+      <Text>Queso fresco de leche utilizado en diversas recetas tradicionales por su textura firme.</Text>
+    </Text>
+    <!-- INICIO Carne de cordero -->
+    <Text>
+      <GUID>1900100152</GUID>
+      <Text>Carne de cordero</Text>
+    </Text>
+    <Text>
+      <GUID>1900100153</GUID>
+      <Text>Valorada por su sabor distintivo y su uso en muchos platos.</Text>
+    </Text>
+    <!-- INICIO Vainas de okra -->
+    <Text>
+      <GUID>1900100154</GUID>
+      <Text>Vainas de okra</Text>
+    </Text>
+    <Text>
+      <GUID>1900100155</GUID>
+      <Text>Utilizadas como verdura en guisos y platos tradicionales.</Text>
+    </Text>
+    <!-- INICIO Sitar -->
+    <Text>
+      <GUID>1900100156</GUID>
+      <Text>Sitar</Text>
+    </Text>
+    <Text>
+      <GUID>1900100157</GUID>
+      <Text>Instrumento de cuerda tradicional utilizado en la interpretación de música clásica y popular.</Text>
+    </Text>
+    <!-- INICIO Madera de teca -->
+    <Text>
+      <GUID>1900100158</GUID>
+      <Text>Madera de teca</Text>
+    </Text>
+    <Text>
+      <GUID>1900100159</GUID>
+      <Text>Valorada por su resistencia natural y su uso en muebles y construcción.</Text>
+    </Text>
+    <!-- INICIO Calabazas Kalebash -->
+    <Text>
+      <GUID>1900100160</GUID>
+      <Text>Calabazas Kalebash</Text>
+    </Text>
+    <Text>
+      <GUID>1900100161</GUID>
+      <Text>Cultivadas por su pulpa y utilizadas en alimentos y recipientes tradicionales.</Text>
+    </Text>
+    <!-- INICIO Masala Chai -->
+    <Text>
+      <GUID>1900100164</GUID>
+      <Text>Masala Chai</Text>
+    </Text>
+    <Text>
+      <GUID>1900100165</GUID>
+      <Text>Bebida de té especiado preparada con leche y una mezcla aromática de especias.</Text>
+    </Text>
+    <!-- INICIO Perfume Oriental -->
+    <Text>
+      <GUID>1900100172</GUID>
+      <Text>Perfume Oriental</Text>
+    </Text>
+    <Text>
+      <GUID>1900100173</GUID>
+      <Text>Elaborado a partir de esencias aromáticas y resinas tradicionales.</Text>
+    </Text>
+    <!-- INICIO Vainilla -->
+    <Text>
+      <GUID>1900100174</GUID>
+      <Text>Vainilla</Text>
+    </Text>
+    <Text>
+      <GUID>1900100175</GUID>
+      <Text>Una especia aromática utilizada para aromatizar postres y bebidas.</Text>
+    </Text>
+    <!-- INICIO Almizcle -->
+    <Text>
+      <GUID>1900100176</GUID>
+      <Text>Almizcle</Text>
+    </Text>
+    <Text>
+      <GUID>1900100177</GUID>
+      <Text>Una sustancia aromática utilizada en perfumería por su aroma fuerte y duradero.</Text>
+    </Text>
+    <!-- INICIO Ámbar gris -->
+    <Text>
+      <GUID>1900100178</GUID>
+      <Text>Ámbar gris</Text>
+    </Text>
+    <Text>
+      <GUID>1900100179</GUID>
+      <Text>Ámbar gris, una sustancia aromática tradicionalmente utilizada en perfumería y preparaciones especiales.</Text>
+    </Text>
+    <!-- INICIO Madera de agar -->
+    <Text>
+      <GUID>1900100180</GUID>
+      <Text>Madera de agar</Text>
+    </Text>
+    <Text>
+      <GUID>1900100181</GUID>
+      <Text>Valorada por su fragancia intensa y su uso en incienso y perfumería.</Text>
+    </Text>
+    <!-- INICIO Virutas de madera de agar -->
+    <Text>
+      <GUID>1900100182</GUID>
+      <Text>Virutas de madera de agar</Text>
+    </Text>
+    <Text>
+      <GUID>1900100183</GUID>
+      <Text>Utilizadas por su aroma en incienso y preparaciones aromáticas.</Text>
+    </Text>
+    <!-- INICIO Ladoo -->
+    <Text>
+      <GUID>1900100240</GUID>
+      <Text>Ladoo</Text>
+    </Text>
+    <Text>
+      <GUID>1900100241</GUID>
+      <Text>Dulce tradicional hecho de harina, azúcar y otros ingredientes aromáticos.</Text>
+    </Text>
+    <!-- INICIO Ghee -->
+    <Text>
+      <GUID>1900100242</GUID>
+      <Text>Ghee</Text>
+    </Text>
+    <Text>
+      <GUID>1900100243</GUID>
+      <Text>Manteca clarificada utilizada en cocina por su sabor y resistencia al calor.</Text>
+    </Text>
+    <!-- INICIO Anacardo -->
+    <Text>
+      <GUID>1900100244</GUID>
+      <Text>Anacardo</Text>
+    </Text>
+    <Text>
+      <GUID>1900100245</GUID>
+      <Text>Una nuez utilizada como alimento y en diversas preparaciones culinarias.</Text>
+    </Text>
+    <!-- INICIO Arrak -->
+    <Text>
+      <GUID>1900100246</GUID>
+      <Text>Arrak</Text>
+    </Text>
+    <Text>
+      <GUID>1900100247</GUID>
+      <Text>Una bebida alcohólica destilada hecha de ingredientes vegetales fermentados.</Text>
+    </Text>
+    <!-- INICIO Piel de tigre -->
+    <Text>
+      <GUID>1900100250</GUID>
+      <Text>Piel de tigre</Text>
+    </Text>
+    <Text>
+      <GUID>1900100251</GUID>
+      <Text>Históricamente utilizada como material decorativo y símbolo de estatus.</Text>
+    </Text>
+    <!-- INICIO Sarees -->
+    <Text>
+      <GUID>1900100252</GUID>
+      <Text>Sarees</Text>
+    </Text>
+    <Text>
+      <GUID>1900100253</GUID>
+      <Text>Prendas tradicionales hechas de telas ligeras y decoradas con variados patrones.</Text>
+    </Text>
+
+    <!-- INICIO Ginebra -->
+    <Text>
+      <GUID>1900100258</GUID>
+      <Text>Ginebra Tónica</Text>
+    </Text>
+    <Text>
+      <GUID>1900100259</GUID>
+      <Text>Una bebida alcohólica destilada aromatizada con bayas de enebro y otras hierbas.</Text>
+    </Text>
+    <!-- INICIO Hacienda de la Compañía de la India -->
+    <Text>
+      <GUID>1900100260</GUID>
+      <Text>Hacienda de la Compañía de la India</Text>
+    </Text>
+    <Text>
+      <GUID>1900100261</GUID>
+      <Text>La Hacienda de la Honorable Compañía</Text>
+    </Text>
+    <!-- INICIO Troncos de Evony -->
+    <Text>
+      <GUID>1900100266</GUID>
+      <Text>Troncos de Evony</Text>
+    </Text>
+    <Text>
+      <GUID>1900100267</GUID>
+      <Text>Una madera densa valorada por su color oscuro y su uso en artesanía fina.</Text>
+    </Text>
+    <!-- INICIO Troncos de teca -->
+    <Text>
+      <GUID>1900100268</GUID>
+      <Text>Troncos de teca</Text>
+    </Text>
+    <Text>
+      <GUID>1900100269</GUID>
+      <Text>Valorados por su durabilidad natural y su uso en construcción y muebles.</Text>
+    </Text>
+    <!-- INICIO Flores de loto -->
+    <Text>
+      <GUID>1900100270</GUID>
+      <Text>Flores de loto</Text>
+    </Text>
+    <Text>
+      <GUID>1900100271</GUID>
+      <Text>Cultivadas por su valor ornamental y su uso en preparaciones tradicionales.</Text>
+    </Text>
+    <!-- INICIO Plumas de pavo real -->
+    <Text>
+      <GUID>1900100272</GUID>
+      <Text>Plumas de pavo real</Text>
+    </Text>
+    <Text>
+      <GUID>1900100273</GUID>
+      <Text>Valoradas por sus colores vivos y su uso en ornamentos y objetos decorativos.</Text>
+    </Text>
+    <!-- INICIO Ajo -->
+    <Text>
+      <GUID>1900100274</GUID>
+      <Text>Ajo</Text>
+    </Text>
+    <Text>
+      <GUID>1900100275</GUID>
+      <Text>Un bulbo aromático utilizado como condimento en una amplia variedad de platos.</Text>
+    </Text>
+    <!-- INICIO Sthanam -->
+    <Text>
+      <GUID>1900100264</GUID>
+      <Text>Sthanam</Text>
+    </Text>
+    <Text>
+      <GUID>1900100265</GUID>
+      <Text>Edificio utilizado para ceremonias y prácticas tradicionales.</Text>
+    </Text>
+    <!-- INICIO Mehfil -->
+    <Text>
+      <GUID>1900100262</GUID>
+      <Text>Mehfil</Text>
+    </Text>
+    <Text>
+      <GUID>1900100263</GUID>
+      <Text>Un edificio social utilizado para reuniones, música y actividades culturales.</Text>
+    </Text>
+    <!-- INICIO Snan Griha -->
+    <Text>
+      <GUID>1900100287</GUID>
+      <Text>Snan Griha</Text>
+    </Text>
+    <Text>
+      <GUID>1900100288</GUID>
+      <Text>Un edificio utilizado para el baño y la purificación corporal.</Text>
+    </Text>
+    <!-- INICIO Pankha -->
+    <Text>
+      <GUID>1900100289</GUID>
+      <Text>Pankha</Text>
+    </Text>
+    <Text>
+      <GUID>1900100290</GUID>
+      <Text>Un abanico tradicional utilizado para refrescar el aire en espacios interiores.</Text>
+    </Text>
+  </ModOp>
+  <!-- INICIO Masala Paratha -->
+  <Text>
+    <GUID>1900100293</GUID>
+    <Text>Masala Paratha</Text>
+  </Text>
+  <Text>
+    <GUID>1900100294</GUID>
+    <Text>Pan plano especiado preparado con una mezcla aromática de condimentos.</Text>
+  </Text>
+  <!-- INICIO Biryani -->
+  <Text>
+    <GUID>1900100295</GUID>
+    <Text>Biryani</Text>
+  </Text>
+  <Text>
+    <GUID>1900100296</GUID>
+    <Text>Plato de arroz especiado preparado con carne, verduras y una mezcla aromática de condimentos.</Text>
+  </Text>
+  <!-- INICIO Idlis -->
+  <Text>
+    <GUID>1900100297</GUID>
+    <Text>Idlis</Text>
+  </Text>
+  <Text>
+    <GUID>1900100298</GUID>
+    <Text>Tortitas de arroz al vapor hechas de masa fermentada y conocidas por su textura suave.</Text>
+  </Text>
+  <!-- INICIO Kallu -->
+  <Text>
+    <GUID>1900100299</GUID>
+    <Text>Kallu</Text>
+  </Text>
+  <Text>
+    <GUID>1900100300</GUID>
+    <Text>Una bebida fermentada hecha de savia de palma.</Text>
+  </Text>
+  <!-- INICIO Thali -->
+  <Text>
+    <GUID>1900100301</GUID>
+    <Text>Thali</Text>
+  </Text>
+  <Text>
+    <GUID>19001002302</GUID>
+    <Text>Un plato para comer, hecho de metal o madera.</Text>
+  </Text>
+  <!-- INICIO Chappal -->
+  <Text>
+    <GUID>1900100303</GUID>
+    <Text>Chappal</Text>
+  </Text>
+  <Text>
+    <GUID>19001002304</GUID>
+    <Text>Sandalias tradicionales utilizadas como calzado cotidiano.</Text>
+  </Text>
+  <!-- INICIO Tarazu -->
+  <Text>
+    <GUID>1900100305</GUID>
+    <Text>Tarazu</Text>
+  </Text>
+  <Text>
+    <GUID>19001002306</GUID>
+    <Text>Báscula tradicional utilizada para pesar mercancías y productos comerciales.</Text>
+  </Text>
+  <!-- INICIO Charpai -->
+  <Text>
+    <GUID>1900100307</GUID>
+    <Text>Charpai</Text>
+  </Text>
+  <Text>
+    <GUID>19001002308</GUID>
+    <Text>Cama tejida tradicional utilizada para el descanso cotidiano.</Text>
+  </Text>
+  <!-- START Accorn -->
+  <Text>
+    <GUID>1900100310</GUID>
+    <Text>Bellota</Text>
+  </Text>
+  <Text>
+    <GUID>1900100311</GUID>
+    <Text>Fruto seco utilizado como alimento y en la elaboración de harinas tradicionales.</Text>
+  </Text>
+  <!-- START Pongal -->
+  <Text>
+    <GUID>1900100316</GUID>
+    <Text>Pongal</Text>
+  </Text>
+  <Text>
+    <GUID>1900100317</GUID>
+    <Text>Plato tradicional de arroz cocido con leche y otros ingredientes aromáticos.</Text>
+  </Text>
+  <!-- START Paai-->
+  <Text>
+    <GUID>1900100318</GUID>
+    <Text>Paai</Text>
+  </Text>
+  <Text>
+    <GUID>1900100319</GUID>
+    <Text>Estera tradicional utilizada como superficie para sentarse o descansar</Text>
+  </Text>
+	</ModOp>
+</ModOps>

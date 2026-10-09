@@ -1,0 +1,466 @@
+<ModOps>
+    <!-- START ADD-->
+    <!-- START ADD GOOD TO Rawmaterials-->
+    <ModOp Type="addNextSibling" GUID='502049,502050,502051,502075,502082,502054,502052,502053'
+        Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100291</Product>
+        </Item>
+        <Item>
+            <Product>1900100178</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO Construction materials-->
+    <ModOp Type="addNextSibling" GUID='501957,502168,502221'
+        Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100144</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO AgriculturalProducts-->
+    <ModOp Type="addNextSibling" GUID='502041,502038,502076,502040,502042,502037'
+        Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100274</Product>
+        </Item>
+        <Item>
+            <Product>1900100154</Product>
+        </Item>
+        <Item>
+            <Product>1900100160</Product>
+        </Item>
+        <Item>
+            <Product>1900100166</Product>
+        </Item>
+        <Item>
+            <Product>1900100168</Product>
+        </Item>
+        <Item>
+            <Product>1900100174</Product>
+        </Item>
+        <Item>
+            <Product>1900100250</Product>
+        </Item>
+        <Item>
+            <Product>1900100254</Product>
+        </Item>
+        <Item>
+            <Product>1900100256</Product>
+        </Item>
+        <Item>
+            <Product>1900100270</Product>
+        </Item>
+        <Item>
+            <Product>1900100272</Product>
+        </Item>
+        <Item>
+            <Product>1900100274</Product>
+        </Item>
+         <Item>
+            <Product>1900100310</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO All IntermediateGoods-->
+    <ModOp Type="addNextSibling" GUID='502043,502046,502047,502044' Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100158</Product>
+        </Item>
+        <Item>
+            <Product>1900100182</Product>
+        </Item>
+        <Item>
+            <Product>1900100242</Product>
+        </Item>
+        <Item>
+            <Product>1900100266</Product>
+        </Item>
+        <Item>
+            <Product>1900100268</Product>
+        </Item>
+
+    </ModOp>
+    <!-- START ADD GOODS TO ProductStorageList -->
+    <ModOp Type="add" GUID='120055,120057,120058' Path="/Values/ProductStorageList/ProductList">
+        <Item>
+            <Product>1900100135</Product>
+        </Item>
+        <Item>
+            <Product>1900100144</Product>
+        </Item>
+        <Item>
+            <Product>1900100148</Product>
+        </Item>
+        <Item>
+            <Product>1900100150</Product>
+        </Item>
+        <Item>
+            <Product>1900100152</Product>
+        </Item>
+        <Item>
+            <Product>1900100154</Product>
+        </Item>
+        <Item>
+            <Product>1900100156</Product>
+        </Item>
+        <Item>
+            <Product>1900100158</Product>
+        </Item>
+        <Item>
+            <Product>1900100160</Product>
+        </Item>
+        <Item>
+            <Product>1900100162</Product>
+        </Item>
+        <Item>
+            <Product>1900100164</Product>
+        </Item>
+        <Item>
+            <Product>1900100166</Product>
+        </Item>
+        <Item>
+            <Product>1900100168</Product>
+        </Item>
+        <Item>
+            <Product>1900100170</Product>
+        </Item>
+        <Item>
+            <Product>1900100172</Product>
+        </Item>
+        <Item>
+            <Product>1900100174</Product>
+        </Item>
+        <Item>
+            <Product>1900100176</Product>
+        </Item>
+        <Item>
+            <Product>1900100178</Product>
+        </Item>
+        <Item>
+            <Product>1900100180</Product>
+        </Item>
+        <Item>
+            <Product>1900100182</Product>
+        </Item>
+        <Item>
+            <Product>1900100240</Product>
+        </Item>
+        <Item>
+            <Product>1900100242</Product>
+        </Item>
+        <Item>
+            <Product>1900100244</Product>
+        </Item>
+        <Item>
+            <Product>1900100246</Product>
+        </Item>
+        <Item>
+            <Product>1900100248</Product>
+        </Item>
+        <Item>
+            <Product>1900100250</Product>
+        </Item>
+        <Item>
+            <Product>1900100252</Product>
+        </Item>
+        <Item>
+            <Product>1900100256</Product>
+        </Item>
+        <Item>
+            <Product>1900100258</Product>
+        </Item>
+        <Item>
+            <Product>1900100266</Product>
+        </Item>
+        <Item>
+            <Product>1900100268</Product>
+        </Item>
+        <Item>
+            <Product>1900100270</Product>
+        </Item>
+        <Item>
+            <Product>1900100272</Product>
+        </Item>
+        <Item>
+            <Product>1900100274</Product>
+        </Item>
+        <Item>
+            <Product>1900100289</Product>
+        </Item>
+        <Item>
+            <Product>1900100293</Product>
+        </Item>
+        <Item>
+            <Product>1900100295</Product>
+        </Item>
+        <Item>
+            <Product>1900100297</Product>
+        </Item>
+        <Item>
+            <Product>1900100299</Product>
+        </Item>
+        <Item>
+            <Product>1900100301</Product>
+        </Item>
+        <Item>
+            <Product>1900100303</Product>
+        </Item>
+        <Item>
+            <Product>1900100305</Product>
+        </Item>
+        <Item>
+            <Product>1900100307</Product>
+        </Item>
+        <Item>
+            <Product>1900100310</Product>
+        </Item>
+        <Item>
+            <Product>1900100316</Product>
+        </Item>
+        <Item>
+            <Product>1900100318</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOODS TO OTHER ProductList ModerateSessionGoods,AllConsumerGoods_EuropeSort -->
+    <ModOp Type="add" GUID='502012,502031' Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100258</Product>
+        </Item>
+        <Item>
+            <Product>1900100168</Product>
+        </Item>
+        <Item>
+            <Product>1900100289</Product>
+        </Item>
+        <Item>
+            <Product>1900100270</Product>
+        </Item>
+        <Item>
+            <Product>1900100162</Product>
+        </Item>
+        <Item>
+            <Product>1900100310</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOODS TO ProductList ArcticSessionGoods,AllConsumerGoods_ArcticSort -->
+    <ModOp Type="add" GUID='502014,502035' Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100164</Product>
+        </Item>
+        <Item>
+            <Product>1900100293</Product>
+        </Item>
+        <Item>
+            <Product>1900100246</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOODS TO ProductList AllConsumerGoods_SouthAmericaSort -->
+    <ModOp Type="add" GUID='502034,502067' Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100168</Product>
+        </Item>
+        <Item>
+            <Product>1900100272</Product>
+        </Item>
+        <Item>
+            <Product>1900100164</Product>
+        </Item>
+        <Item>
+            <Product>1900100289</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOODS TO ProductList AllConsumerGoods_AfricaSort -->
+    <ModOp Type="add" GUID='502085,502078' Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100168</Product>
+        </Item>
+        <Item>
+            <Product>1900100164</Product>
+        </Item>
+        <Item>
+            <Product>1900100289</Product>
+        </Item>
+        <Item>
+            <Product>1900100270</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Investors -->
+    <ModOp Type="add" GUID="501999,502021,501992" Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100258</Product>
+        </Item>
+        <Item>
+            <Product>1900100162</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Engineers -->
+    <ModOp Type="add" GUID="501998,502020,502007" Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100289</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Artisians -->
+    <ModOp Type="add" GUID="501997,502019,501992,502006" Path="/Values/ProductList/List">
+
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Farmers -->
+    <ModOp Type="add" GUID="501995,502017" Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100168</Product>
+        </Item>
+        <Item>
+            <Product>1900100310</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Workers -->
+    <ModOp Type="add" GUID="501996,502018" Path="/Values/ProductList/List">
+
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Technicians -->
+    <ModOp Type="add" GUID="502219,502003,502025" Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100164</Product>
+        </Item>
+        <Item>
+            <Product>1900100293</Product>
+        </Item>
+        <Item>
+            <Product>1900100246</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Turist -->
+    <ModOp Type="add" GUID="502309,502308" Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100289</Product>
+        </Item>
+        <Item>
+            <Product>1900100270</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Obreros -->
+    <ModOp Type="add" GUID="502001,502023,502027" Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100168</Product>
+        </Item>
+        <Item>
+            <Product>1900100289</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Jornalero -->
+    <ModOp Type="add" GUID="502000,502022,502027" Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100164</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Artista -->
+    <ModOp Type="add" GUID="7398,7397,502027,5402" Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100272</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOOD TO ProductLists Elders-->
+    <ModOp Type="add" GUID="502070,502074" Path="/Values/ProductList/List">
+        <Item>
+            <Product>1900100168</Product>
+        </Item>
+        <Item>
+            <Product>1900100164</Product>
+        </Item>
+        <Item>
+            <Product>1900100289</Product>
+        </Item>
+        <Item>
+            <Product>1900100270</Product>
+        </Item>
+    </ModOp>
+    <!-- START ADD GOODS TO Unlock Artisians ProductList-->
+    <ModOp Type="add" GUID='502019' Path="/Values/ProductList/List">
+
+    </ModOp>
+
+    <!-- START ADD GOODS TO Unlock Engineers ProductList-->
+    <ModOp Type="add" GUID='502020' Path="/Values/ProductList/List">
+
+    </ModOp>
+
+    <!-- START ADD GOODS TO Unlock Investors ProductList-->
+    <ModOp Type="add" GUID='502021' Path="/Values/ProductList/List">
+
+    </ModOp>
+
+    <!-- START ADD GOODS TO Unlock Shepperds ProductList-->
+    <ModOp Type="add" GUID='502071' Path="/Values/ProductList/List">
+
+    </ModOp>
+
+    <!-- START ADD GOODS TO Unlock Jornalero ProductList-->
+    <ModOp Type="add" GUID='502022' Path="/Values/ProductList/List">
+
+    </ModOp>
+
+    <!-- START ADD GOODS TO Unlock Obrero ProductList-->
+    <ModOp Type="add" GUID='502023' Path="/Values/ProductList/List">
+
+    </ModOp>
+
+    <!-- END ADD-->
+    <!-- START ADD GOOD LIFESTYLE CATEGORIES -->
+    <!-- Food and Drinks -->
+    <ModOp Type="add" GUID="25000118"
+        Path="/Values/ObjectmenuResidenceScene/BonusNeeds/BonusNeeds/Item[Category='2289']/Needs">
+        <Item>
+            <BonusNeed>1900100164</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100293</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100246</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100258</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100299</BonusNeed>
+        </Item>
+    </ModOp>
+    <!-- Wealth -->
+    <ModOp Type="add" GUID="25000118"
+        Path="/Values/ObjectmenuResidenceScene/BonusNeeds/BonusNeeds/Item[Category='2361']/Needs">
+        <Item>
+            <BonusNeed>1900100289</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100270</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100272</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100162</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100250</BonusNeed>
+        </Item>
+    </ModOp>
+    <!-- Health -->
+    <ModOp Type="add" GUID="25000118"
+        Path="/Values/ObjectmenuResidenceScene/BonusNeeds/BonusNeeds/Item[Category='2290']/Needs">
+        <Item>
+            <BonusNeed>1900100168</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100166</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100254</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100274</BonusNeed>
+        </Item>
+        <Item>
+            <BonusNeed>1900100256</BonusNeed>
+        </Item>
+    </ModOp>
+
+    <!-- START ADD GOOD LIFESTYLE CATEGORIES -->
+</ModOps>

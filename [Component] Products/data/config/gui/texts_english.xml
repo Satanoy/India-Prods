@@ -1,0 +1,414 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Sheesham Logs-->
+    <Text>
+      <GUID>1900100135</GUID>
+      <Text>Sheesham Logs</Text>
+    </Text>
+    <Text>
+      <GUID>1900100143</GUID>
+      <Text>Sheesham logs, a hardwood valued for its durability and decorative grain.</Text>
+    </Text>
+    <!-- START Sheesham Timber-->
+    <Text>
+      <GUID>1900100144</GUID>
+      <Text>Sheesham Timber</Text>
+    </Text>
+    <Text>
+      <GUID>1900100145</GUID>
+      <Text>Processed sheesham timber, used in construction and manufacturing for its hardness and
+        appearance.</Text>
+    </Text>
+    <!-- START Roti-->
+    <Text>
+      <GUID>1900100146</GUID>
+      <Text>Roti</Text>
+    </Text>
+    <Text>
+      <GUID>1900100147</GUID>
+      <Text>Traditional flatbread made from flour and cooked on a hot griddle.</Text>
+    </Text>
+    <!-- START Roti-->
+    <Text>
+      <GUID>1900100146</GUID>
+      <Text>Roti</Text>
+    </Text>
+    <Text>
+      <GUID>1900100147</GUID>
+      <Text>Traditional flatbread made from flour and cooked on a hot griddle.</Text>
+    </Text>
+
+    <!-- START Paneer-->
+    <Text>
+      <GUID>1900100150</GUID>
+      <Text>Paneer</Text>
+    </Text>
+    <Text>
+      <GUID>1900100151</GUID>
+      <Text>Fresh milk cheese used in various traditional recipes for its firm texture.</Text>
+    </Text>
+    <!-- START Lamb meat -->
+    <Text>
+      <GUID>1900100152</GUID>
+      <Text>Lamb meat</Text>
+    </Text>
+    <Text>
+      <GUID>1900100153</GUID>
+      <Text>Valued for its distinctive flavor and its use in many dishes.</Text>
+    </Text>
+    <!-- START Okra pods-->
+    <Text>
+      <GUID>1900100154</GUID>
+      <Text>Okra pods</Text>
+    </Text>
+    <Text>
+      <GUID>1900100155</GUID>
+      <Text>Used as a vegetable in stews and traditional dishes.</Text>
+    </Text>
+    <!-- START Sitar -->
+    <Text>
+      <GUID>1900100156</GUID>
+      <Text>Sitar</Text>
+    </Text>
+    <Text>
+      <GUID>1900100157</GUID>
+      <Text>Traditional string instrument used in the performance of classical and popular music.</Text>
+    </Text>
+    <!-- START Teak wood -->
+    <Text>
+      <GUID>1900100158</GUID>
+      <Text>Teak wood</Text>
+    </Text>
+    <Text>
+      <GUID>1900100159</GUID>
+      <Text>Valued for its natural resistance and its use in furniture and construction.</Text>
+    </Text>
+    <!-- START Kalebash pumpkins -->
+    <Text>
+      <GUID>1900100160</GUID>
+      <Text>Kalebash pumpkins</Text>
+    </Text>
+    <Text>
+      <GUID>1900100161</GUID>
+      <Text>Grown for their pulp and used in food and traditional containers.</Text>
+    </Text>
+    <!-- START Masala Chai-->
+    <Text>
+      <GUID>1900100164</GUID>
+      <Text>Masala Chai</Text>
+    </Text>
+    <Text>
+      <GUID>1900100165</GUID>
+      <Text>Spiced tea beverage prepared with milk and an aromatic blend of spices.</Text>
+    </Text>
+    <!-- START Oriental Perfume-->
+    <Text>
+      <GUID>1900100172</GUID>
+      <Text>Oriental Perfume</Text>
+    </Text>
+    <Text>
+      <GUID>1900100173</GUID>
+      <Text>Made from aromatic essences and traditional resins.</Text>
+    </Text>
+    <!-- START Vanilla-->
+    <Text>
+      <GUID>1900100174</GUID>
+      <Text>Vanilla</Text>
+    </Text>
+    <Text>
+      <GUID>1900100175</GUID>
+      <Text>An aromatic spice used to flavor desserts and beverages.</Text>
+    </Text>
+    <!-- START Musk-->
+    <Text>
+      <GUID>1900100176</GUID>
+      <Text>Musk</Text>
+    </Text>
+    <Text>
+      <GUID>1900100177</GUID>
+      <Text>An aromatic substance used in perfumery for its strong and lasting scent.</Text>
+    </Text>
+    <!-- START Ambra-->
+    <Text>
+      <GUID>1900100178</GUID>
+      <Text>Ambra</Text>
+    </Text>
+    <Text>
+      <GUID>1900100179</GUID>
+      <Text>Ambergris, an aromatic substance traditionally used in perfumery and special
+        preparations.</Text>
+    </Text>
+    <!-- START Agarwood-->
+    <Text>
+      <GUID>1900100180</GUID>
+      <Text>Agarwood</Text>
+    </Text>
+    <Text>
+      <GUID>1900100181</GUID>
+      <Text>Valued for its intense fragrance and its use in incense and perfumery.</Text>
+    </Text>
+    <!-- START Agarwood Chips-->
+    <Text>
+      <GUID>1900100182</GUID>
+      <Text>Agarwood Chips</Text>
+    </Text>
+    <Text>
+      <GUID>1900100183</GUID>
+      <Text>used for their scent in incense and aromatic preparations.</Text>
+    </Text>
+    <!-- START Ladoo-->
+    <Text>
+      <GUID>1900100240</GUID>
+      <Text>Ladoo</Text>
+    </Text>
+    <Text>
+      <GUID>1900100241</GUID>
+      <Text>Traditional sweet made from flour, sugar, and other aromatic ingredients.</Text>
+    </Text>
+    <!-- START Ghee-->
+    <Text>
+      <GUID>1900100242</GUID>
+      <Text>Ghee</Text>
+    </Text>
+    <Text>
+      <GUID>1900100243</GUID>
+      <Text>Clarified butter used in cooking for its flavor and heat resistance.</Text>
+    </Text>
+    <!-- START Cashew-->
+    <Text>
+      <GUID>1900100244</GUID>
+      <Text>Cashew</Text>
+    </Text>
+    <Text>
+      <GUID>1900100245</GUID>
+      <Text>a nut used as food and in various culinary preparations.</Text>
+    </Text>
+    <!-- START Arrak -->
+    <Text>
+      <GUID>1900100246</GUID>
+      <Text>Arrak</Text>
+    </Text>
+    <Text>
+      <GUID>1900100247</GUID>
+      <Text>A distilled alcoholic beverage made from fermented plant-based ingredients.</Text>
+    </Text>
+    <!-- START Tiger fur -->
+    <Text>
+      <GUID>1900100250</GUID>
+      <Text>Tiger fur</Text>
+    </Text>
+    <Text>
+      <GUID>1900100251</GUID>
+      <Text>Historically used as a decorative material and a symbol of status.</Text>
+    </Text>
+    <!-- START Sarees -->
+    <Text>
+      <GUID>1900100252</GUID>
+      <Text>Sarees</Text>
+    </Text>
+    <Text>
+      <GUID>1900100253</GUID>
+      <Text>Traditional garments made from light fabrics and decorated with varied patterns.</Text>
+    </Text>
+    <!-- START Gin-->
+    <Text>
+      <GUID>1900100258</GUID>
+      <Text>Gin Tonic</Text>
+    </Text>
+    <Text>
+      <GUID>1900100259</GUID>
+      <Text>A distilled alcoholic beverage flavored with juniper berries and other herbs.</Text>
+    </Text>
+    <!-- START India Company Estate -->
+    <Text>
+      <GUID>1900100260</GUID>
+      <Text>India Company Estate</Text>
+    </Text>
+    <Text>
+      <GUID>1900100261</GUID>
+      <Text>The Honorable Company’s Estate</Text>
+    </Text>
+    <!-- START Evony Logs -->
+    <Text>
+      <GUID>1900100266</GUID>
+      <Text>Evony Logs</Text>
+    </Text>
+    <Text>
+      <GUID>1900100267</GUID>
+      <Text>A dense wood valued for its dark color and its use in fine craftsmanship.</Text>
+    </Text>
+    <!-- START Teak Logs-->
+    <Text>
+      <GUID>1900100268</GUID>
+      <Text>Teak Logs</Text>
+    </Text>
+    <Text>
+      <GUID>1900100269</GUID>
+      <Text>Valued for their natural durability and their use in construction and furniture.</Text>
+    </Text>
+    <!-- START Lotus flowers-->
+    <Text>
+      <GUID>1900100270</GUID>
+      <Text>Lotus flowers</Text>
+    </Text>
+    <Text>
+      <GUID>1900100271</GUID>
+      <Text>Grown for their ornamental value and their use in traditional preparations.</Text>
+    </Text>
+    <!-- START Peacock feathers-->
+    <Text>
+      <GUID>1900100272</GUID>
+      <Text>Peacock feathers</Text>
+    </Text>
+    <Text>
+      <GUID>1900100273</GUID>
+      <Text>Valued for their vivid colors and their use in ornaments and decorative items.</Text>
+    </Text>
+    <!-- START Garlic-->
+    <Text>
+      <GUID>1900100274</GUID>
+      <Text>Garlic</Text>
+    </Text>
+    <Text>
+      <GUID>1900100275</GUID>
+      <Text>An aromatic bulb used as a seasoning in a wide variety of dishes.</Text>
+    </Text>
+    <!-- START Sthanam-->
+    <Text>
+      <GUID>1900100264</GUID>
+      <Text>Sthanam</Text>
+    </Text>
+    <Text>
+      <GUID>1900100265</GUID>
+      <Text>Building used for ceremonies and traditional practices.</Text>
+    </Text>
+    <!-- START Sthanam-->
+    <Text>
+      <GUID>1900100262</GUID>
+      <Text>Mehfil</Text>
+    </Text>
+    <Text>
+      <GUID>1900100263</GUID>
+      <Text>A social building used for gatherings, music, and cultural activities.</Text>
+    </Text>
+    <!-- START Snan Griha-->
+    <Text>
+      <GUID>1900100287</GUID>
+      <Text>Snan Griha</Text>
+    </Text>
+    <Text>
+      <GUID>1900100288</GUID>
+      <Text>A building used for bathing and bodily purification.</Text>
+    </Text>
+    <!-- START Pankha-->
+    <Text>
+      <GUID>1900100289</GUID>
+      <Text>Pankha</Text>
+    </Text>
+    <Text>
+      <GUID>1900100290</GUID>
+      <Text>A traditional fan used to cool the air in indoor spaces.</Text>
+    </Text>
+  </ModOp>
+  <!-- START Masala Paratha-->
+  <Text>
+    <GUID>1900100293</GUID>
+    <Text>Masala Paratha</Text>
+  </Text>
+  <Text>
+    <GUID>1900100294</GUID>
+    <Text>Spiced flatbread prepared with an aromatic blend of seasonings.</Text>
+  </Text>
+  <!-- START Biryani-->
+  <Text>
+    <GUID>1900100295</GUID>
+    <Text>Biryani</Text>
+  </Text>
+  <Text>
+    <GUID>1900100296</GUID>
+    <Text>Spiced rice dish prepared with meat, vegetables, and an aromatic blend of seasonings.</Text>
+  </Text>
+  <!-- START Idlis-->
+  <Text>
+    <GUID>1900100297</GUID>
+    <Text>Idlis</Text>
+  </Text>
+  <Text>
+    <GUID>1900100298</GUID>
+    <Text>Steamed rice cakes made from fermented batter and known for their soft texture.</Text>
+  </Text>
+  <!-- START Kallu-->
+  <Text>
+    <GUID>1900100299</GUID>
+    <Text>Kallu</Text>
+  </Text>
+  <Text>
+    <GUID>1900100300</GUID>
+    <Text>A fermented beverage made from palm sap.</Text>
+  </Text>
+  <!-- START Thali -->
+  <Text>
+    <GUID>1900100301</GUID>
+    <Text>Thali</Text>
+  </Text>
+  <Text>
+    <GUID>19001002302</GUID>
+    <Text>A plate for eating, made of metal or wood.</Text>
+  </Text>
+  <!-- START Chappal -->
+  <Text>
+    <GUID>1900100303</GUID>
+    <Text>Chappal</Text>
+  </Text>
+  <Text>
+    <GUID>19001002304</GUID>
+    <Text>Traditional sandals used as everyday footwear.</Text>
+  </Text>
+  <!-- START Tarazu -->
+  <Text>
+    <GUID>1900100305</GUID>
+    <Text>Tarazu</Text>
+  </Text>
+  <Text>
+    <GUID>19001002306</GUID>
+    <Text>Traditional scale used to weigh goods and trade commodities.</Text>
+  </Text>
+  <!-- START Charpai -->
+  <Text>
+    <GUID>1900100307</GUID>
+    <Text>Charpai</Text>
+  </Text>
+  <Text>
+    <GUID>19001002308</GUID>
+    <Text>Traditional woven bed used for everyday rest.</Text>
+  </Text>
+  <!-- START Accorn -->
+  <Text>
+    <GUID>1900100310</GUID>
+    <Text>Acorn</Text>
+  </Text>
+  <Text>
+    <GUID>1900100311</GUID>
+    <Text>A nut used as food and in the production of traditional flours.</Text>
+  </Text>
+  </ModOp>
+  <!-- START Pongal -->
+  <Text>
+    <GUID>1900100316</GUID>
+    <Text>Pongal</Text>
+  </Text>
+  <Text>
+    <GUID>1900100317</GUID>
+    <Text>A traditional rice dish cooked with milk and other aromatic ingredients.</Text>
+  </Text>
+  <!-- START Paai-->
+  <Text>
+    <GUID>1900100318</GUID>
+    <Text>Paai</Text>
+  </Text>
+  <Text>
+    <GUID>1900100319</GUID>
+    <Text>A traditional mat used as a surface for sitting or resting.</Text>
+  </Text>
+  </ModOp>
+</ModOps>

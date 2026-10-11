@@ -22,9 +22,9 @@ Other (stand alone/shared for now):
 
 -Agarwood chips
 -Oriental Parfume
--Ivory <img width="20" height="20" alt="ivory" src="https://github.com/user-attachments/assets/3e10e3b9-6c93-43bc-b64d-469f67235a68" />
+-Ivory (in general shared reppo) <img width="20" height="20" alt="ivory" src="https://github.com/user-attachments/assets/3e10e3b9-6c93-43bc-b64d-469f67235a68" />
 
--Ivory carving <img width="20" height="20" alt="ivory carving" src="https://github.com/user-attachments/assets/d0999d7a-799c-4701-abe2-da84667cccf8" />
+-Ivory carving (in general shared reppo) <img width="20" height="20" alt="ivory carving" src="https://github.com/user-attachments/assets/d0999d7a-799c-4701-abe2-da84667cccf8" />
 
 
 

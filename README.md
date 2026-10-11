@@ -14,5 +14,12 @@ Prods:
 
 Services:
 
--India Company Estate, Mehfil, Sthanam, Snan Griha, 
+-India Company Estate, Mehfil, Sthanam, Snan Griha.
+
+Other (stand alone/shared for now):
+-Berries
+-Agarwood
+-Ivory
+-Ivory carving
+
 

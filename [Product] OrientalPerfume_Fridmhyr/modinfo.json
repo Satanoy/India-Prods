@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Oriental_Perfume",
+  "LoadAfterIds": [],
+    "ModDependencies": [
+      "Agarwood"
+    ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Oriental Perfume",
+    "Chinese": "Oriental Perfume",
+    "French": "Oriental Perfume",
+    "German": "Oriental Perfume",
+    "Italian": "Oriental Perfume",
+    "Japanese": "Oriental Perfume",
+    "Korean": "Oriental Perfume",
+    "Polish": "Oriental Perfume",
+    "Russian": "Oriental Perfume",
+    "Spanish": "Oriental Perfume",
+    "Taiwanese": "Oriental Perfume"
+  },
+  "CreatorName": "Satanoy and Fridmhyr",
+  
+  "Description": {
+    "English": "Shared Product Oriental Perfume",
+    "Chinese": "Shared Product Oriental Perfume",
+    "French": "Shared Product Oriental Perfume",
+    "German": "Shared Product Oriental Perfume",
+    "Italian": "Shared Product Oriental Perfume",
+    "Japanese": "Shared Product Oriental Perfume",
+    "Korean": "Shared Product Oriental Perfume",
+    "Polish": "Shared Product Oriental Perfume",
+    "Russian": "Shared Product Oriental Perfume",
+    "Spanish": "Shared Product Oriental Perfume",
+    "Taiwanese": "Shared Product Oriental Perfume"
+  }
+}

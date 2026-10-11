@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- START Oriental Perfume-->
+    <Text>
+      <GUID>1900100172</GUID>
+      <Text>Oriental Perfume</Text>
+    </Text>
+    <Text>
+      <GUID>1900100173</GUID>
+      <Text>Made from aromatic essences and traditional resins.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000382</GUID>
+      <Text>Oriental_Perfume_Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

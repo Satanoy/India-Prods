@@ -20,7 +20,8 @@ Other (stand alone/shared for now):
 
 -Agarwood <img width="20" height="20" alt="Agarwood" src="https://github.com/user-attachments/assets/37678cdd-d37d-4f46-926b-11960fdbe5dc" />
 
--Agarwood chips
+-Agarwood chips <img width="20" height="20" alt="agarcho" src="https://github.com/user-attachments/assets/5ca28388-9d16-4964-be63-f43a72fecef7" />
+
 -Oriental Parfume
 -Ivory (in general shared reppo) <img width="20" height="20" alt="ivory" src="https://github.com/user-attachments/assets/3e10e3b9-6c93-43bc-b64d-469f67235a68" />
 

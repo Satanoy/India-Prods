@@ -17,7 +17,9 @@ Services:
 -India Company Estate, Mehfil, Sthanam, Snan Griha.
 
 Other (stand alone/shared for now):
--Agarwood
+
+-Agarwood <img width="20" height="20" alt="Agarwood" src="https://github.com/user-attachments/assets/37678cdd-d37d-4f46-926b-11960fdbe5dc" />
+
 -Agarwood chips
 -Oriental Parfume
 -Ivory <img width="20" height="20" alt="ivory" src="https://github.com/user-attachments/assets/3e10e3b9-6c93-43bc-b64d-469f67235a68" />

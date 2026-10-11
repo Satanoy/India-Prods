@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Agarwood Chips-->
+    <Text>
+      <GUID>1900100182</GUID>
+      <Text>Agarwood Chips</Text>
+    </Text>
+    <Text>
+      <GUID>1900100183</GUID>
+      <Text>used for their scent in incense and aromatic preparations.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000381</GUID>
+      <Text>Fake_Agarwood_grinder_Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

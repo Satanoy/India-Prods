@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Agarwood_chips",
+  "LoadAfterIds": [],
+    "ModDependencies": [
+      "Agarwood"
+    ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Agarwood chips",
+    "Chinese": "Agarwood chips",
+    "French": "Agarwood chips",
+    "German": "Agarwood chips",
+    "Italian": "Agarwood chips",
+    "Japanese": "Agarwood chips",
+    "Korean": "Agarwood chips",
+    "Polish": "Agarwood chips",
+    "Russian": "Agarwood chips",
+    "Spanish": "Agarwood chips",
+    "Taiwanese": "Agarwood chips"
+  },
+  "CreatorName": "Satanoy and Fridmhyr",
+  
+  "Description": {
+    "English": "Shared Product Agarwood chips",
+    "Chinese": "Shared Product Agarwood chips",
+    "French": "Shared Product Agarwood chips",
+    "German": "Shared Product Agarwood chips",
+    "Italian": "Shared Product Agarwood chips",
+    "Japanese": "Shared Product Agarwood chips",
+    "Korean": "Shared Product Agarwood chips",
+    "Polish": "Shared Product Agarwood chips",
+    "Russian": "Shared Product Agarwood chips",
+    "Spanish": "Shared Product Agarwood chips",
+    "Taiwanese": "Shared Product Agarwood chips"
+  }
+}

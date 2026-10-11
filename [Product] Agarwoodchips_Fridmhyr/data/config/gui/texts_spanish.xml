@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- INICIO Virutas de madera de agar -->
+    <Text>
+      <GUID>1900100182</GUID>
+      <Text>Virutas de madera de agar</Text>
+    </Text>
+    <Text>
+      <GUID>1900100183</GUID>
+      <Text>Utilizadas por su aroma en incienso y preparaciones aromáticas.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000381</GUID>
+      <Text>Fake_Agarwood_grinder_Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

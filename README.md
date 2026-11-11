@@ -1,12 +1,12 @@
 # India-Prods
 India themed prods:
 
-These assets were created for the India mod by a team consisting of Panther, Frydhmyr, Dinodude, and myself (I’ve forgotten the names of the other modders—apologies—) this is a backup copy.
+These assets were created for the India mod by a team consisting of; Arithon, Panther, Frydhmyr, Dinodude and myself.. this is a backup copy.
 
-If you need any specific good, feel free to ask about making it shared.
+If you need any specific good, or if you are making and india themed Anno 1800 mod, feel free to ask about making it shared w/fake prod building (dm in discord or DM in Mod io profile).
 
-I am currently unaware of the status of the India mod or whether it is still in development; however, if anyone is creating an India mod and needs these prods, I can share them.
-Just prods no fake prod buildings
+The project of an Indian region of this team is totally halted, and I am revisiting the idea in a very different way.
+PS. ALL the goods in this reppo are free to use and was made for that indian mod.
 
 Prods:
 

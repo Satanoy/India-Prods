@@ -10,7 +10,7 @@ Just prods no fake prod buildings
 
 Prods:
 
--Sheesham Logs, Sheesham Timber, Roti, Paneer, Lamb meat, Okra pods, Sitar, Teak Logs, Teak wood, Kalebash pumpkins, Masala Chai, Vanilla, Musk, Ambra, Laddoo, Ghee, Cashew, Sarees, Gin and Tonic, Ebony wood, Lotus flowers, Pankha, Masala Paratha, Idlis, Kallu, Tarazu, Thali, Acorn, Pongal, Paai, 
+-Sheesham Logs, Sheesham Timber, Roti, Paneer, Okra pods, Sitar, Teak Logs, Teak wood, Kalebash pumpkins, Masala Chai, Vanilla, Musk, Ambra, Laddoo, Ghee, Cashew, Sarees, Gin and Tonic, Ebony wood, Lotus flowers, Pankha, Masala Paratha, Idlis, Kallu, Tarazu, Thali, Acorn, Pongal, Paai, 
 
 Services:
 
@@ -41,6 +41,9 @@ Other (stand alone/shared for now):
 -Tiger Fur <img width="20" height="20" alt="tigerfur" src="https://github.com/user-attachments/assets/2fcd4b66-6a13-46fa-aaa5-cb93dfd40ce6" />
 
 -Peacock Feathers <img width="20" height="20" alt="PFeathrs" src="https://github.com/user-attachments/assets/09729657-cb98-4998-afe0-4e6279836c73" />
+
+-Lamb Meat <img width="20" height="20" alt="lambmeat" src="https://github.com/user-attachments/assets/44daad1e-b1cf-463a-94f4-937f7fcf56d1" />
+
 
 
 

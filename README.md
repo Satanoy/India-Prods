@@ -5,7 +5,7 @@ These assets were created for the India mod by a team consisting of; Arithon, Pa
 
 If you need any specific good, or if you are making and india themed Anno 1800 mod, feel free to ask about making it shared w/fake prod building (dm in discord or DM in Mod io profile).
 
-The project of an Indian region of this team is totally halted, and I am revisiting the idea in a very different way.
+The project of an Indian region of this team is totally halted (at the momment), and I am revisiting the idea in a very different way.
 PS. ALL the goods in this reppo are free to use and was made for that indian mod.
 
 Prods:

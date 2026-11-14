@@ -44,6 +44,9 @@ Other (stand alone/shared for now):
 
 -Lamb Meat <img width="20" height="20" alt="lambmeat" src="https://github.com/user-attachments/assets/44daad1e-b1cf-463a-94f4-937f7fcf56d1" />
 
+-Oil <img width="20" height="20" alt="oil" src="https://github.com/user-attachments/assets/3ab8db7e-91d8-42de-87a7-f61ab23e54fb" />
+
+
 
 
 

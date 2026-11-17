@@ -34,6 +34,10 @@ Other (stand alone/shared for now):
 
 -Charpai <img width="20" height="20" alt="Charpai" src="https://github.com/user-attachments/assets/acffc6dc-a65d-4f6a-8d1e-2f1197a7c870" />
 
+-Chess Set <img width="20" height="20" alt="chess" src="https://github.com/user-attachments/assets/8aad893f-a1cd-47e4-bbcf-77fe8aa77153" />
+
+-Curcuma <img width="20" height="20" alt="curcuma" src="https://github.com/user-attachments/assets/2aaeac10-9ebc-4e28-9382-c9585a195694" />
+
 -Garlic <img width="20" height="20" alt="garlic" src="https://github.com/user-attachments/assets/289c4b9d-b519-4210-b7b0-ec0cd7f93cc0" />
 
 -Ivory (in general shared reppo) <img width="20" height="20" alt="ivory" src="https://github.com/user-attachments/assets/3e10e3b9-6c93-43bc-b64d-469f67235a68" />

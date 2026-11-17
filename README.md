@@ -10,7 +10,7 @@ PS. ALL the goods in this reppo are free to use and was made for that indian mod
 
 Prods:
 
--Sheesham Logs, Sheesham Timber, Roti, Paneer, Okra pods, Sitar, Teak Logs, Teak wood, Kalebash pumpkins, Masala Chai, Vanilla, Musk, Ambra, Laddoo, Ghee, Cashew, Gin and Tonic, Ebony wood, Lotus flowers, Masala Paratha, Idlis, Kallu, Tarazu, Thali, Acorn, Pongal.
+-Sheesham Logs, Sheesham Timber, Roti, Paneer, Okra pods, Sitar, Teak Logs, Teak wood, Kalebash pumpkins, Masala Chai, Vanilla, Musk, Ambra, Laddoo, Ghee, Cashew, Gin and Tonic, Ebony wood, Lotus flowers, Masala Paratha, Idlis, Kallu, Thali, Acorn, Pongal.
 
 Services:
 

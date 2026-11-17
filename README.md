@@ -38,7 +38,11 @@ Other (stand alone/shared for now):
 
 -Curcuma <img width="20" height="20" alt="curcuma" src="https://github.com/user-attachments/assets/2aaeac10-9ebc-4e28-9382-c9585a195694" />
 
+-Curry <img width="20" height="20" alt="curry" src="https://github.com/user-attachments/assets/a0a10549-a658-4077-8ad3-0f5559ee0f96" />
+
 -Garlic <img width="20" height="20" alt="garlic" src="https://github.com/user-attachments/assets/289c4b9d-b519-4210-b7b0-ec0cd7f93cc0" />
+
+-Gemsstones <img width="20" height="20" alt="gems" src="https://github.com/user-attachments/assets/725a1be7-af0b-4df6-91ae-71a2fd3d8399" />
 
 -Ivory (in general shared reppo) <img width="20" height="20" alt="ivory" src="https://github.com/user-attachments/assets/3e10e3b9-6c93-43bc-b64d-469f67235a68" />
 

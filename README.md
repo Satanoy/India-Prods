@@ -44,9 +44,11 @@ Other (stand alone/shared for now):
 
 -Gemsstones <img width="20" height="20" alt="gems" src="https://github.com/user-attachments/assets/725a1be7-af0b-4df6-91ae-71a2fd3d8399" />
 
--Ivory (in general shared reppo) <img width="20" height="20" alt="ivory" src="https://github.com/user-attachments/assets/3e10e3b9-6c93-43bc-b64d-469f67235a68" />
+-Ginger <img width="20" height="20" alt="ginger" src="https://github.com/user-attachments/assets/779731db-4aea-4975-b0b7-be2f1559a708" />
 
--Ivory carving (in general shared reppo) <img width="20" height="20" alt="ivory carving" src="https://github.com/user-attachments/assets/d0999d7a-799c-4701-abe2-da84667cccf8" />
+-Ivory <img width="20" height="20" alt="ivory" src="https://github.com/user-attachments/assets/3e10e3b9-6c93-43bc-b64d-469f67235a68" />
+
+-Ivory carving <img width="20" height="20" alt="ivory carving" src="https://github.com/user-attachments/assets/d0999d7a-799c-4701-abe2-da84667cccf8" />
 
 -Lamb Meat <img width="20" height="20" alt="lambmeat" src="https://github.com/user-attachments/assets/44daad1e-b1cf-463a-94f4-937f7fcf56d1" />
 

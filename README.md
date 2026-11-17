@@ -62,6 +62,8 @@ Other (stand alone/shared for now):
 
 -Paai <img width="20" height="20" alt="paai" src="https://github.com/user-attachments/assets/db9a03c2-0f92-4f5b-b752-91df4fcaeaf2" />
 
+-Tarazu <img width="20" height="20" alt="icons" src="https://github.com/user-attachments/assets/a0b78aa0-002b-40e6-b587-617b125e41e3" />
+
 -Tiger Fur <img width="20" height="20" alt="tigerfur" src="https://github.com/user-attachments/assets/2fcd4b66-6a13-46fa-aaa5-cb93dfd40ce6" />
 
 -Saare <img width="20" height="20" alt="saare" src="https://github.com/user-attachments/assets/beeeae34-dc28-449f-a49a-90cebcbd9927" />

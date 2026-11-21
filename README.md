@@ -10,7 +10,7 @@ PS. ALL the goods in this reppo are free to use and was made for that indian mod
 
 Prods:
 
--Sheesham Logs, Sheesham Timber, Roti, Paneer, Okra pods, Sitar, Teak Logs, Teak wood, Kalebash pumpkins, Masala Chai, Vanilla, Musk, Ambra, Laddoo, Ghee, Cashew, Gin and Tonic, Ebony wood, Lotus flowers, Masala Paratha, Kallu, Thali, Acorn.
+-Sheesham Logs, Sheesham Timber, Roti, Paneer, Okra pods, Sitar, Teak Logs, Teak wood, Kalebash pumpkins, Vanilla, Musk, Ambra, Laddoo, Ghee, Cashew, Gin and Tonic, Ebony wood, Lotus flowers, Masala Paratha, Kallu, Thali, Acorn.
 
 Services:
 
@@ -53,6 +53,8 @@ Other (stand alone/shared for now):
 -Ivory carving <img width="20" height="20" alt="ivory carving" src="https://github.com/user-attachments/assets/d0999d7a-799c-4701-abe2-da84667cccf8" />
 
 -Lamb Meat <img width="20" height="20" alt="lambmeat" src="https://github.com/user-attachments/assets/44daad1e-b1cf-463a-94f4-937f7fcf56d1" />
+
+-Masala Chai <img width="20" height="20" alt="masalachai" src="https://github.com/user-attachments/assets/dfcab58a-aab6-4363-a86f-959a4e7beb6b" />
 
 -Oriental Perfume <img width="20" height="20" alt="Oriental" src="https://github.com/user-attachments/assets/10962ce1-144f-4c5e-8e7b-bd0d86fd7cdd" />
 

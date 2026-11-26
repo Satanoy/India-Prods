@@ -8,13 +8,21 @@ If you need any specific good, or if you are making and india themed Anno 1800 m
 The project of an Indian region of this team is totally halted (at the momment), and I am revisiting the idea in a very different way.
 PS. ALL the goods in this reppo are free to use and was made for that indian mod.
 
-Prods:
+Not shared Prods:
 
 -Sheesham Logs, Sheesham Timber, Roti, Paneer, Okra pods, Sitar, Teak Logs, Teak wood, Kalebash pumpkins, Vanilla, Musk, Ambra, Ghee, Cashew, Gin and Tonic, Ebony wood, Lotus flowers, Masala Paratha, Kallu, Thali, Acorn.
 
-Services:
+Not shared Services:
 
--India Company Estate, Mehfil, Sthanam, Snan Griha.
+-India Company Estate.
+
+Shared services
+
+-Mefil <img width="20" height="20" alt="Mehfil" src="https://github.com/user-attachments/assets/152427cb-c475-47f3-8964-69dff5b4ca0c" />
+
+-Sthanam <img width="20" height="20" alt="Sthanam" src="https://github.com/user-attachments/assets/c9255041-7054-4fd0-aa65-5b8dc4fdccb3" />
+
+-Snan Griha
 
 Other (stand alone/shared for now):
 

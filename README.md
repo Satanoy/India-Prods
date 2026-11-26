@@ -12,9 +12,11 @@ Not shared Prods:
 
 -Sheesham Logs, Sheesham Timber, Roti, Paneer, Okra pods, Sitar, Teak Logs, Teak wood, Kalebash pumpkins, Vanilla, Musk, Ambra, Ghee, Cashew, Gin and Tonic, Ebony wood, Lotus flowers, Masala Paratha, Kallu, Thali, Acorn.
 
+
 Not shared Services:
 
 -India Company Estate.
+
 
 Shared services
 
@@ -23,6 +25,7 @@ Shared services
 -Sthanam <img width="20" height="20" alt="Sthanam" src="https://github.com/user-attachments/assets/c9255041-7054-4fd0-aa65-5b8dc4fdccb3" />
 
 -Snan Griha
+
 
 Other (stand alone/shared for now):
 

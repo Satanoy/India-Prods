@@ -24,7 +24,7 @@ Shared services
 
 -Sthanam <img width="20" height="20" alt="Sthanam" src="https://github.com/user-attachments/assets/c9255041-7054-4fd0-aa65-5b8dc4fdccb3" />
 
--Snan Griha
+-Snan Griha <img width="20" height="20" alt="Snan Griha" src="https://github.com/user-attachments/assets/779e7c68-a9eb-42d9-a856-eddfe95a6309" />
 
 
 Other (stand alone/shared for now):
